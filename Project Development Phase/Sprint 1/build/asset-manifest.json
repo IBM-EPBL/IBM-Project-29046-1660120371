@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ibm-project/static/css/main.b036845a.css",
+    "main.js": "/ibm-project/static/js/main.f10cedbb.js",
+    "index.html": "/ibm-project/index.html",
+    "main.b036845a.css.map": "/ibm-project/static/css/main.b036845a.css.map",
+    "main.f10cedbb.js.map": "/ibm-project/static/js/main.f10cedbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b036845a.css",
+    "static/js/main.f10cedbb.js"
+  ]
+}

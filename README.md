@@ -3,9 +3,9 @@ A Novel Method for Handwritten Digit Recognition System
 <h1 align="center">Hi 👋, this is our IBM project repository</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibm-project-29046-1660120371&label=Profile%20views&color=0e75b6&style=flat" alt="ibm-project-29046-1660120371" /> </p>
 
-- 🔭 I’m currently working on **IBM Project**
+- 🔭 We are currently working on **IBM Project**
 
-- 🌱 I’m currently learning **React,JavaScript,NodeJs,ExpressJs**
+- 🌱 We are currently learning **React,JavaScript,NodeJs,ExpressJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

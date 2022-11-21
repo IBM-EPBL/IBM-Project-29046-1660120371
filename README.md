@@ -1,6 +1,6 @@
 # IBM-Project-29046-1660120371
 A Novel Method for Handwritten Digit Recognition System
-<img src="![image](https://user-images.githubusercontent.com/113419410/203100073-d6cb823d-6742-49cb-996a-d23405bb146f.png)
+<img src="[![image](https://user-images.githubusercontent.com/113419410/203100073-d6cb823d-6742-49cb-996a-d23405bb146f.png)](https://thumbs.gfycat.com/ImpishSpeedyDormouse-max-1mb.gif)
 ">
 <h1 align="center">Hi 👋, this is our IBM project repository</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibm-project-29046-1660120371&label=Profile%20views&color=0e75b6&style=flat" alt="ibm-project-29046-1660120371" /> </p>

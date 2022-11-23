@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Handwritten Digit Recognition</title>
+    <style>
+        body {
+            background-image: url("bg.jpg");
+            text-align: center;
+            padding: 70px 0px;
+        }
+
+        #inner {
+            margin: auto;
+            width: 60%;
+            background-color: #000;
+            opacity: 0.7;
+            padding: 10px;
+            color: red;
+            border-radius: 10px;
+        }
+
+        form {
+            height: 100px;
+            width: 300px;
+            margin: auto;
+            width: 60%;
+            padding: 10px;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="inner">
+        <h1>Handwritten Digit Recognition System</h1>
+        <form name="upload" enctype="multipart/form-data" method = "POST" action = "/upload">
+            <input type="file" name="digit">
+            <input type="submit">
+        </form>
+    </div>
+
+    <script>
+</script>
+</body>
+</html>
